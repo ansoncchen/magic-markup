@@ -350,8 +350,8 @@ export const tools = {
   imageUpload: ImageUpload,
   displayHTML: DisplayHTML,
   explainInEnglish: ExplainInEnglish,
-  // outputVisualizer: OutputVisualizer,
-  // formalSpecification: FormalSpecification,
+  outputVisualizer: OutputVisualizer,
+  formalSpecification: FormalSpecification,
   // lmApiTest: LMAPITest,
 };
 
@@ -367,8 +367,8 @@ export const toolNames = {
   displayHTML: "HTML Preview",
   debugExample: "Show an Example",
   explainInEnglish: "Explain in English",
-  // outputVisualizer: "Output Visualizer",
-  // formalSpecification: "Formal Specification",
+  outputVisualizer: "Output Visualizer",
+  formalSpecification: "Formal Specification",
   
   
   // lmApiTest: "LM API Test",
